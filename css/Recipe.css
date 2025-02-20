@@ -1,0 +1,28 @@
+.ingredient-item{
+    color:green;
+}
+.step{
+    color:red
+}
+span{
+    font-weight: bold
+}
+.tips{
+    font-style: italic;
+    color: blue
+}
+#Brownie-Recipe-Page{
+    background-color:beige;
+    padding: 5px;
+    width: 1200px
+}
+.Recipe-Title{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:darkslateblue;
+    font-size: xx-large;
+}
+.Brownie-Image{
+    position:static;
+    height: auto;
+    width: auto;
+}

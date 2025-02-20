@@ -1,0 +1,28 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    padding: 8px;
+  }
+  p{
+    font-size: 26px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+h2{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+h1{
+  font-family: sans-serif
+}
+.navbar{
+  background-color:gray
+}
